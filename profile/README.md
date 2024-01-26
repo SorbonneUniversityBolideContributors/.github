@@ -1,6 +1,6 @@
 # Sorbonne University Bolide Contributors
 
-Welcome to the GitHub home of the talented students from Sorbonne University dedicated to autonomous racing with our RC cars! 🚗💨 🚗💨
+Welcome to the GitHub home of the talented students from Sorbonne University dedicated to autonomous racing with our RC cars!💨 🚗💨
 
 ## 🎓 About Us:
 We are an organization of students, including both Master 2 and Master 1 students from Sorbonne University, focused on competing in the autonomous RC car races organized by ENS.
